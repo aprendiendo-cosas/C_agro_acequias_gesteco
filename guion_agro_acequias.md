@@ -7,7 +7,13 @@
 ![portada](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/pavilla.jpg) 
 
 
+
+## Ubicación
+
+Término municipal de Nigüelas. Provincia de Granada.
+
 ## Introducción
+
 En esta última parada pasearemos por una acequia situada cerca del núcleo urbano de Nigüelas. Durante el recorrido, Isabel Haro nos hablará de la agroecología y de su capacidad de proveer alimentos a la población a escala local. También hablaremos de la red de acequias como elemento fundamental para distribuir el agua en las zonas de montaña. Recordaremos las acequias que visitamos el curso pasado en la zona alta de Sierra Nevada.
 
 
