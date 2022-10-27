@@ -40,3 +40,9 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
+Nadie puso ningún comentario en el grupo de Telegram :(
+
+
+
+## Algunas fotos
+
