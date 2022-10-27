@@ -46,3 +46,6 @@ Nadie puso ningún comentario en el grupo de Telegram :(
 
 ## Algunas fotos
 
+![isa1](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/agro_1.JPG)
+
+![isa2](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/agro_2.JPG)
