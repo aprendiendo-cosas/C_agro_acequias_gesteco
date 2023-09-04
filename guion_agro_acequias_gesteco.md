@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/pavilla.jpg) 
+![portada](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/2022_2023/images/pavilla.jpg) 
 
 
 
@@ -46,6 +46,11 @@ Nadie puso ningún comentario en el grupo de Telegram :(
 
 ## Algunas fotos
 
-![isa1](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/agro_1.JPG)
+![isa1](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/2022_2023/images/agro_1.JPG)
 
-![isa2](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/main/images/agro_2.JPG)
+![isa2](https://github.com/aprendiendo-cosas/C_agro_acequias_gesteco/raw/2022_2023/images/agro_2.JPG)
+
+
+## Vídeo realizado por los estudiantes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k0O-M6jdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
